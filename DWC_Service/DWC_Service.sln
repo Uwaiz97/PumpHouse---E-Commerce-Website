@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWC_Service", "DWC_Service.csproj", "{0DD147F6-CF50-41E0-98C9-40EB760B6979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD147F6-CF50-41E0-98C9-40EB760B6979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD147F6-CF50-41E0-98C9-40EB760B6979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD147F6-CF50-41E0-98C9-40EB760B6979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD147F6-CF50-41E0-98C9-40EB760B6979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8171BE-5EC2-4B04-B196-769D333A11A1}
+	EndGlobalSection
+EndGlobal

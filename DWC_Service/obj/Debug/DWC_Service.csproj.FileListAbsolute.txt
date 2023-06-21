@@ -1,0 +1,14 @@
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\obj\Debug\DWC_Service.csproj.AssemblyReference.cache
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\obj\Debug\DWC_Service.csproj.CoreCompileInputs.cache
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\bin\DWC_Service.dll.config
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\bin\DWC_Service.dll
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\bin\DWC_Service.pdb
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\obj\Debug\DWC_Service.dll
+C:\Users\taqee\OneDrive\Documents\Work\Year 4\Semester 2\IFM02B2\Group Project\Backend\DWC_Service\obj\Debug\DWC_Service.pdb
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\bin\DWC_Service.dll.config
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\bin\DWC_Service.dll
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\bin\DWC_Service.pdb
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\obj\Debug\DWC_Service.csproj.AssemblyReference.cache
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\obj\Debug\DWC_Service.csproj.CoreCompileInputs.cache
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\obj\Debug\DWC_Service.dll
+C:\Users\uwais\Desktop\Backend v2\Backend v2\DWC_Service\obj\Debug\DWC_Service.pdb
